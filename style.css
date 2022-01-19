@@ -1,0 +1,76 @@
+body {
+    font-family: sans-serif;
+    font-size: 20px;
+}
+
+header {
+    background-color: aquamarine;
+    padding: 15px;
+    color: blueviolet;
+}
+
+header a {
+    background-color: white;
+    padding: 5px;
+    border: 3px solid black;
+    border-radius: 10px;
+    text-decoration: none;
+    color: black;
+}
+
+nav {
+    padding: 10px;
+    margin: 10px;
+}
+nav a {
+    background-color: white;
+    margin: 10px;
+    padding: 5px;
+    border: 3px solid black;
+    border-radius: 10px;
+    text-decoration: none;
+    color: black;
+}
+
+img {
+    text-align: center;
+}
+
+a {
+    border: 3px solid blueviolet;
+    border-radius: 10px;
+    text-decoration: none;
+    padding: 5px;
+    color: black;
+}
+
+main {
+    margin: 20px;
+}
+
+h1 {
+    color: blueviolet;
+    text-align: center;
+    background-color: aquamarine;
+}
+
+h2 {
+    text-align: center;
+    color: blueviolet;
+}
+
+.price {
+    border: 2px solid blueviolet;
+    border-radius: 10px;
+    padding: 10px;
+    margin: 10px;
+}
+
+footer {
+    background-color: aquamarine;
+    padding: 5px;
+}
+footer p {
+    background-color: white;
+    padding: 5px;
+}
